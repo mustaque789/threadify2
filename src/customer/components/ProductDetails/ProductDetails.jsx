@@ -5,6 +5,7 @@ import { Box, Button, Grid, LinearProgress, Rating } from '@mui/material'
 import ProductReviewCard from './ProductReviewCard'
 import HomeSectionCard from '../HomeSectionCard/HomeSectionCard'
 import { men_shirts } from '../../Data/men_shirts'
+//product details
 
 const product = {
   name: 'Basic Tee 6-Pack',

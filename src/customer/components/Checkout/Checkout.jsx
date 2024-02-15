@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 import { useLocation } from 'react-router-dom';
 import DeliveryAddressForm from './DeliveryAddressForm';
 import OrderSummary from './OrderSummary';
-
+//checkout
 const steps = ['Login', 'Delivery Address', 'Order Summary', 'Payment'];
 
 export default function Checkout() {

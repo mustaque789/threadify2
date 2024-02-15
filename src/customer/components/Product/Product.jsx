@@ -8,6 +8,7 @@ import { filters, singleFilter } from './FilterData'
 import { FormControl, FormControlLabel, FormLabel, Radio, RadioGroup } from '@mui/material'
 import FilterListIcon from '@mui/icons-material/FilterList';
 import { useLocation, useNavigate } from 'react-router-dom'
+//product
 
 const sortOptions = [
   { name: 'Price: Low to High', href: '#', current: false },
